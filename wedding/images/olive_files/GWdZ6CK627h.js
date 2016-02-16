@@ -1,0 +1,5 @@
+/*!CK:1039756355!*//*1455236893,*/
+
+if (self.CavalryLogger) { CavalryLogger.start_js(["kCv+r"]); }
+
+__d('MercuryGiftSnippetRenderer',['fbt'],function a(b,c,d,e,f,g,h){'use strict';if(c.__markCompiled)c.__markCompiled();var i={renderText:function(j,k){return j?h._("You sent a valentine."):h._("{name} sent a valentine.",[h.param('name',k)]);}};f.exports=i;},null);
