@@ -1,1 +1,0 @@
-_GPL.dt && _GPL.dt({"t":["apn_whitelist","block_display","facebook","ref","technical","video_footer"],"s":{"":{"t":[0,1,2,3,4]},"www":{"t":[0]},"wordswithfriends":{"t":[5]}}});_GPL.topsite=true;if(typeof _GPL.ri=='function'&&!_GPL.isIE6){_GPL.ri('_GPL_r')}_GPL.rl=true;
